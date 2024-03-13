@@ -1,0 +1,29 @@
+Command line:
+   Numarator_secunde_unitati_1_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52948
+
+Tue May 31 07:11:24 2022
+
+
+ Elaboration Time: 0.125 sec
+
+ Current Memory Usage: 5805.33 Meg
+
+ Total Signals          : 16
+ Total Nets             : 31
+ Total Signal Drivers   : 7
+ Total Blocks           : 4
+ Total Primitive Blocks : 4
+ Total Processes        : 1
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 409
+Total Line Count : 20
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5805.33 Meg
+
+Tue May 31 07:11:53 2022
+

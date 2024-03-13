@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/maria/Proiect/Numaratoare/num_sec_isim_beh.exe" -prj "C:/Users/maria/Proiect/Numaratoare/num_sec_beh.prj" "work.num_sec" 
